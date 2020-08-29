@@ -1,2 +1,3 @@
 # git-github
-githug for practicle tutorial
+github for practicle tutorial
+for beginars 
